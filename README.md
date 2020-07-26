@@ -1,3 +1,7 @@
+
+![대문](https://github.com/alexkiddev/alexkiddev/blob/master/mainpic.jpg)
+
+
 ## 1. 환영합니다
 
 안녕하세요. '게임 개발자를 꿈꾸는 알렉스키드' 입니다.<br>
@@ -30,4 +34,3 @@ IT쪽에 일을 다니지만 다른 직종에서 일하면서 조금씩 개발 �
 * **개인블로그:** <http://alexkid.egloos.com/>
 
 
-![대문](https://github.com/alexkiddev/alexkiddev/blob/master/mainpic.jpg)
