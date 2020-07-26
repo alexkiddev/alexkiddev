@@ -1,6 +1,7 @@
 
 ![대문](https://github.com/alexkiddev/alexkiddev/blob/master/mainpic.jpg)
 
+https://youtu.be/gSHR2GZ5VYk
 
 ## 1. 환영합니다
 
