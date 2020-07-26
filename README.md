@@ -12,7 +12,7 @@ IT쪽에 일을 다니지만 다른 직종에서 일하면서 조금씩 개발 �
 
 [![alexkide_dev github stats](https://github-readme-stats.vercel.app/api?username=alexkiddev)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<p>
 ## 2. 개발 관련
 * C언어 (2020.04 ~ 진행중)
 * HTML  (2020.07 ~ 진행중)
@@ -21,9 +21,9 @@ IT쪽에 일을 다니지만 다른 직종에서 일하면서 조금씩 개발 �
 ## 3. 게임 관련 
 * 관심 기종 : DosGame, PC9801, Sega Master System, PS4, PS vita, Steam, 그외 레트로 게임기종들
 * 관심 회사 : Square Enix, KOEI, Atlus, 바닐라웨어, Rockstar Games, ID soft
-* 관심 게임 : 알렉스키드, DOOM, 파이널판타지(1~10), 니어시리즈, 이스, 영웅전설,<br> 
+* 관심 게임 : 알렉스키드, DOOM, 파이널판타지(1~10), 니어시리즈, 이스, 영웅전설,
               삼국지, 노부나가의야망, 대항해시대, 프린세스메이커
-
+</p>
 
 ## 4. 활동지
 * **트위터:** <https://twitter.com/dev_kid_twiter>
