@@ -1,11 +1,10 @@
 
 ![대문](https://github.com/alexkiddev/alexkiddev/blob/master/mainpic.jpg)
 
-https://youtu.be/gSHR2GZ5VYk
 
 ## 1. 환영합니다
 
-안녕하세요. '게임 개발자를 꿈꾸는 알렉스키드' 입니다.<br>
+안녕하세요. 늦깍이 '게임 개발자를 꿈꾸는 알렉스키드' 입니다.<br>
 IT쪽에 일을 다니지만 다른 직종에서 일하면서 조금씩 개발 공부하는 직장인입니다.<br>
 공부하면서 지금 당장은 아니고 이쪽 관련으로 창업도 염두하고 있구요.<br>
 <br>
