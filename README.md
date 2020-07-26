@@ -28,6 +28,8 @@ IT쪽에 일을 다니지만 다른 직종에서 일하면서 조금씩 개발 �
 * **개인블로그:** <http://alexkid.egloos.com/>
 
 
+
+
 [![alexkide_dev github stats](https://github-readme-stats.vercel.app/api?username=alexkiddev)](https://github.com/anuraghazra/github-readme-stats)
 
 
