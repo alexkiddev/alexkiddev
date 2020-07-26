@@ -13,10 +13,6 @@ IT쪽에 일을 다니지만 다른 직종에서 일하면서 조금씩 개발 �
 [![alexkide_dev github stats](https://github-readme-stats.vercel.app/api?username=alexkiddev)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-![대문](https://github.com/alexkiddev/alexkiddev/blob/master/mainpic.jpg)
-
 ## 2. 개발 관련
 * C언어 (2020.04 ~ 진행중)
 * HTML  (2020.07 ~ 진행중)
@@ -34,3 +30,4 @@ IT쪽에 일을 다니지만 다른 직종에서 일하면서 조금씩 개발 �
 * **개인블로그:** <http://alexkid.egloos.com/>
 
 
+![대문](https://github.com/alexkiddev/alexkiddev/blob/master/mainpic.jpg)
