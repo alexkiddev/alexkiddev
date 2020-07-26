@@ -28,3 +28,6 @@ IT쪽에 일을 다니지만 다른 직종에서 일하면서 조금씩 개발 �
 ## 4. 활동지
 * **트위터:** <https://twitter.com/dev_kid_twiter>
 * **개인블로그:** <http://alexkid.egloos.com/>
+
+
+![대문](https://github.com/alexkiddev/alexkiddev/blob/master/mainpic.jpg)
