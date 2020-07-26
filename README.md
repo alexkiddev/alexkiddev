@@ -7,3 +7,9 @@
 저의 관심사는 게임이라서 게임 개발쪽에 관심이 많고 웹개발도 취미로 좀 관심이 있습니다.<br>
 
 [![alexkide_dev github stats](https://github-readme-stats.vercel.app/api?username=alexkiddev)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## 2. 활동지
+
+* **트위터:** <https://twitter.com/dev_kid_twiter>
+* **개인블로그:** <http://alexkid.egloos.com/>
