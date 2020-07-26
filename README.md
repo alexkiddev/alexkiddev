@@ -1,3 +1,6 @@
+[![alexkide_dev github stats](https://github-readme-stats.vercel.app/api?username=alexkiddev)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 1. 환영합니다
 
 안녕하세요. 늦깍이 '게임 개발자를 꿈꾸는 알렉스키드' 입니다.<br>
@@ -9,8 +12,6 @@ IT쪽에 일을 다니지만 다른 직종에서 일하면서 조금씩 개발 �
 <br>
 현재로서는 직장 다니며 준비, 정리중이라 아직 게임 개발쪽으론 진전은 아주 느리지만... <br> 
 준비 정리 마무리 되는대로 게임 개발에 발들일 생각 입니다.<br>
-
-[![alexkide_dev github stats](https://github-readme-stats.vercel.app/api?username=alexkiddev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 2. 개발 관련
