@@ -27,7 +27,7 @@ IT쪽에 일을 다니지만 개발이 아닌 직종에서 일하면서 조금�
 
 ## 4. 온라인 활동지
 * **트위터:** <https://twitter.com/dev_kid_twiter>
-* **개인블로그:** <http://alexkid.egloos.com/>
+* **개인블로그:** <https://jwking.tistory.com/>
 
 
 
